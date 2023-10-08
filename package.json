@@ -1,0 +1,22 @@
+{
+  "name": "globetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enukidze/globeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enukidze/globeTest/issues"
+  },
+  "homepage": "https://github.com/enukidze/globeTest#readme",
+  "dependencies": {
+    "three": "^0.157.0"
+  }
+}
